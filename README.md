@@ -53,7 +53,7 @@ src="https://img.shields.io/badge/-Linkedin-blue" />
 
 <!-- [![Sponsor Saquib](https://studyeze.in/gitlab/saquibkhan.png)][s] -->
 
-<small><strong>❯❯ Skills in Listed Language ↓</strong></small>
+<small><strong>❯❯ Skills  ↓</strong></small>
 
 <!-- [![PHP Course](https://img.shields.io/badge/LEARN-PHP%20Backend%20Code%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge)][n] [![Java Core Course](https://img.shields.io/badge/LEARN-JAVA%20(Core)%20Code%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)][v] [![Deno Course](https://img.shields.io/badge/WORKING-WebCode%20(free)%20%E2%86%92-gray.svg?colorA=6B999F&colorB=6A788D&style=for-the-badge)][d]
  -->
