@@ -50,8 +50,7 @@ src="https://img.shields.io/badge/-Linkedin-blue" />
 		</small>
 	</p>
 </div>
-
-<!-- [![Sponsor Saquib](https://studyeze.in/gitlab/saquibkhan.png)][s] -->
+[![Sponsor Akarshan](https://www.canva.com/design/DAFYClrCfQs/-RW2qk_mKBd-duKObhHqAQ/view?utm_content=DAFYClrCfQs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)][s]
 
 <small><strong>❯❯ Skills  ↓</strong></small>
 
